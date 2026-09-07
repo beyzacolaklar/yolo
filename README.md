@@ -16,10 +16,8 @@ The model was trained on a custom subset of the **COCO 2017** dataset focusing o
 2. `keyboard`
 3. `mouse`
 4. `cell phone`
-5. `book`
-6. `backpack`
-7. `bottle`
-8. `cup`
+5- `bottle`
+
 
 ---
 
