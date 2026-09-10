@@ -8,7 +8,6 @@
 [![Gradio](https://img.shields.io/badge/Gradio-Web%20App-orange.svg)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-*A professional, end-to-end custom object detection project developed during an Artificial Intelligence internship.*
 
 </div>
 
