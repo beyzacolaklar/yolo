@@ -8,19 +8,22 @@
 [![Gradio](https://img.shields.io/badge/Gradio-Web%20App-orange.svg)](https://gradio.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+</div>
 
-</div>
-<div align="center">
-  <img src="nesnetespiti.gif" width="700">
-</div>
 ---
 
 ## 📌 About the Project
+
+<div align="center">
+  <img src="assets/nesnetespiti.gif" width="700">
+</div>
+
 **DeskDetect** explores the complete workflow of a modern computer vision pipeline. Built using **YOLOv8** and trained on a custom subset of the **COCO 2017** dataset via **Google Colab (T4 GPU)**, the model accurately detects everyday desktop and workspace objects through an interactive, dark-themed **Gradio web interface**.
 
 ---
 
 ## 🎯 Selected Classes & Dataset Distribution
+
 The model was trained on 5 core workspace and daily-life categories:
 1. `laptop` (955 instances)
 2. `keyboard` (578 instances)
@@ -31,6 +34,7 @@ The model was trained on 5 core workspace and daily-life categories:
 ---
 
 ## 📊 Model Performance & Evaluation
+
 | Category / Class | Instances | mAP50 | Status |
 | :--- | :---: | :---: | :---: |
 | **laptop** | 955 | **0.741** | 🟢 High Precision |
@@ -46,6 +50,7 @@ The model was trained on 5 core workspace and daily-life categories:
 ---
 
 ## 🛠️ Quick Start & Installation
+
 To run the web interface locally on your machine without Google Colab:
 
 ### 1. Clone the Repository
