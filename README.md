@@ -12,9 +12,7 @@
 
 ---
 
-<p align="center">
-  <img src="assets/nesnetespiti.gif" alt="Proje Demosu" width="700">
-</p>
+![Nesne Tespiti Demo](assets/nesnetespiti.gif)
 ## 📌 About the Project
 
 <div align="center">
