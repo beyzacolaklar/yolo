@@ -10,7 +10,7 @@
 
 </div>
 
-![Demo](assets/nesnetespiti.gif)
+![Demo](assets/demo.gif)
 
 
 ## 📌 About the Project
