@@ -10,7 +10,9 @@
 
 
 </div>
-
+<div align="center">
+  <img src="nesnetespiti.gif" width="700">
+</div>
 ---
 
 ## 📌 About the Project
