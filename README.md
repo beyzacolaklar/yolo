@@ -10,12 +10,12 @@
 
 </div>
 
----
+![Demo](demo.gif)
 
-![Nesne Tespiti Demo](assets/nesnetespiti.gif)
+
 ## 📌 About the Project
 
-![Nesne Tespiti Demo](assets/nesnetespiti.gif)
+
 
 **DeskDetect** explores the complete workflow of a modern computer vision pipeline. Built using **YOLOv8** and trained on a custom subset of the **COCO 2017** dataset via **Google Colab (T4 GPU)**, the model accurately detects everyday desktop and workspace objects through an interactive, dark-themed **Gradio web interface**.
 
